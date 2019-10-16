@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head_container{
+    width: 70vw;
+    height: 10vh;
+    margin: auto;
+}
+
+.head_barup{
+    background-color: #F5F8FA;
+}
+
+.head_bar{
+
+}
