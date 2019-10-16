@@ -2,18 +2,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
-.head_container{
-    width: 70vw;
-    height: 10vh;
-    margin: auto;
-}
 
 .head_barup{
     background-color: #F5F8FA;
+    height: 10vh;
 }
 
 .head_bar{
-
+    width: 70vh;
+    margin: auto;
+    height: 5vh;
 }
