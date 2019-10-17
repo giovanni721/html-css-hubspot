@@ -31,9 +31,16 @@
     height: 20px;
 }
 
+#fixedmenu{
+    width: 60%;
+    margin: auto;
+}
+
 .greybg{
     background-color: #F5F8FA;
     height: 7vh;
+    position: fixed;
+    width: 100%;
 }
 
 a{
@@ -57,6 +64,7 @@ button{
 
 #secondh{
     height: 8vh;
+    margin-top: 7vh;
 }
 
 #logo{
