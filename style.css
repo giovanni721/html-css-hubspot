@@ -50,6 +50,7 @@ a{
 button{
     background-color: #FF8F73;
     border-radius: 5px;
+    border: 1px solid #FF8F73;
     color: white;
     padding:5px 10px;
 }
@@ -71,6 +72,8 @@ button{
     float: right;
     margin-top: 20px;
 }
+
+/* Primo blocco */
 
 .firstcontent{
     background-image: url("background.png");
@@ -94,4 +97,85 @@ button{
 
 h1{
     font-size: 50px;
+}
+
+/* Secondo Blocco */
+
+#bgcolor{
+    background-color: #F5F8FA;
+}
+
+#secondblock{
+    padding-top: 10%;
+}
+
+#firstillustration{
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.textall{
+    text-align: center;
+    margin-bottom: 10px;
+    width: 70%;
+    margin: auto;
+}
+
+#title{
+    font-size: 35px;
+    color: #33475B;
+}
+
+#blocks{
+    width: 90%;
+    margin: auto;
+}
+
+.firstlil{
+    height: 30vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 97%;
+    background-color: white;
+    padding-left: 20%;
+    padding-right: 10%
+}
+
+.lilblock{
+    height: 55vh;
+    width: 34vh;
+    float: left;
+    margin-right: 25px;
+    background-color: white;
+}
+
+#imgcontainer{
+    height: 100%;
+    float: left;
+}
+
+#padbut{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.blocksbutton{
+    padding:10px 20px;
+}
+
+#intblock{
+    padding-left: 13%;
+    padding-top: 3%;
+}
+
+.titleblock{
+    font-size: 25px;
+    color: #415366;
+}
+
+.textblock{
+    color: #949EA9;
+    font-size: 14px;
 }
