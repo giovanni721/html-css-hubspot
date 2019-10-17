@@ -54,6 +54,10 @@ button{
     padding:5px 10px;
 }
 
+#secondh{
+    height: 8vh;
+}
+
 #logo{
     float: left;
     margin-top: 10px;
@@ -66,4 +70,28 @@ button{
     margin-right: 20px;
     float: right;
     margin-top: 20px;
+}
+
+.firstcontent{
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 75vh;
+}
+
+#textcontainer{
+    width: 35%;
+    padding-top: 150px;
+    left: 0;
+    color: #33475B;
+}
+
+#seconbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:25px 55px;
+}
+
+h1{
+    font-size: 50px;
 }
