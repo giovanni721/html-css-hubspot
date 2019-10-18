@@ -252,7 +252,7 @@ h1{
 
 #backgroundblue{
     background-image: linear-gradient(to right, #00A9B9 , #00BBA6);
-    height: 80vh;
+    height: 90vh;
 }
 
 #h2white{
@@ -269,4 +269,47 @@ h1{
     color: white;
     width: 64%;
     margin: auto;
+}
+
+#squarecontainer{
+    width: 55vw;
+    height: 25vh;
+    margin: auto;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+
+.lilcontainer{
+
+    width: 13vw;
+    height: 100%;
+    padding: 30px;
+    margin: auto;
+    float: left;
+}
+
+.rightbot{
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+#bot{
+    border-bottom: 1px solid white;
+}
+
+.right{
+    border-right: 1px solid white;
+}
+
+.bignumbers{
+    font-size: 45px;
+    color: white;
+}
+
+.underfont{
+    color: white;
+}
+
+.positioning{
+    text-align: center;
 }
