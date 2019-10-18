@@ -111,6 +111,7 @@ h1{
 
 #bgcolor{
     background-color: #F5F8FA;
+    height: 150vh;
 }
 
 #secondblock{
@@ -248,3 +249,24 @@ h1{
 
 
 /* Terzo Blocco */
+
+#backgroundblue{
+    background-image: linear-gradient(to right, #00A9B9 , #00BBA6);
+    height: 80vh;
+}
+
+#h2white{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    padding-top: 10%;
+}
+
+#pwhite{
+    text-align: center;
+    color: white;
+    width: 64%;
+    margin: auto;
+}
